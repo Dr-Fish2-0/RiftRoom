@@ -1,4 +1,4 @@
-#Dusk/Dawn Interactive Horror Experience Rift Room Code
+# Dusk/Dawn Interactive Horror Experience Rift Room Code
 
 The main programs are lights.py and Rift.ino
 
